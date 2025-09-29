@@ -1,0 +1,9 @@
+{
+  "short_name": "HD Notes",
+  "name": "HD Notes - Organize Your Thoughts",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#3b82f6",
+  "background_color": "#ffffff"
+}
+
